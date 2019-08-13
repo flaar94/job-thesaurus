@@ -1,2 +1,2 @@
-This is a Flask app design which can be found at http://job-thesaurus.herokuapp.com/. Can be run locally by running
+This is the source code for the Flask app http://job-thesaurus.herokuapp.com/. It can be run locally by running
 app.py using a Python interpreter.
