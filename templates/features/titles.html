@@ -1,0 +1,57 @@
+{% extends 'shared/_layout.html' %}
+{% block content %}
+    <body>
+        <div class="container">
+            <form action="" method="post">
+                {{ form.csrf_token }}
+                <div class="row">
+                    <div class="col-lg-12 text-left">
+                        <h2>Title Search</h2>
+                        <p>
+                            Find all titles that share a cluster with a given title:
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2">
+                        <b>{{ form.title.label() }}</b>
+                    </div>
+                    <div class="col-lg-2">
+                        {{ form.title() }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2">
+                        <b>{{ form.data_source.label() }}</b>
+                    </div>
+                    <div class="col-lg-2">
+                        {{ form.data_source() }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2">
+                        {{ form.submit() }}
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+
+    <!-- Extra data -->
+    {% if data %}
+    <div class="container-fluid" id="output">
+        <b>Related Titles (ordered by relevance):</b>
+        {% for title, raw_titles in data %}
+            {% if loop.index % 4 == 1 %}
+                 <div class="row">
+            {% endif %}
+                <div class="col-lg-3">
+                    <span class="mouse-over" data-toggle="tooltip" data-html="true" title="{{raw_titles}}">{{ title }}</span>
+                </div>
+            {% if loop.index % 4 == 0 %}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+    {% endif %}
+{% endblock %}

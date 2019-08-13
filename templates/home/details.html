@@ -1,0 +1,54 @@
+{% extends 'shared/_layout.html' %}
+{% block content %}
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-left">
+                    <h1>Find the Right Jobs
+                        and Job Titles</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    Below are (excerpts) of two very similar job postings with two very different job titles. We use an
+                    l1 multinomial logistic regression model, with job titles as a target, to select out key words
+                </div>
+            </div>
+            <div class="row">
+                <form action="", method="post">
+                    {{ form.csrf_token }}
+                    <div class="col-lg-12">
+                        {{ form.highlight() }}
+                    </div>
+                </form>
+            </div> <br>
+            <div class="row">
+                {% for post in [post1, post2] %}
+                    <div class="col-lg-6 text-left">
+                        <h3>Title: {{ post.title }}</h3>
+                        <span class="posting">{{ post.text | safe }}</span>
+                    </div>
+                {% endfor %}
+            </div>
+        </div> <br>
+        <div class="container">
+            <div class="row">
+                <h3>Clustering</h3>
+            </div>
+            <div class="row">
+                Next we want to group up similar job posts into clusters. To do this, we use a K-Means algorithm. We do this for
+                two reasons. First, the result will be more practical if the clusters are similar in size. Second, we want
+                to rescale the features using the weights in the regression model, so we need to maintain the relative importance of
+                each direction. To choose the number of clusters we graph two measures of quality against the number of clusters.
+                <ul>
+                    <li><b>The second moment</b> measures the (negative squared) distance of the points in each cluster to the cluster's center</li>
+                    <li><b>Purity</b> measures the (weighted) average of what fraction of each job title is in a single cluster</li>
+                </ul>
+                The purity falls nearly linearly, and so isn't helpful for choosing the number of clusters. Instead we
+                apply the elbow heuristic to the moment graph. In particular, we see k=60 is approximately the point where the graph
+                starts to flatten out (marked with a vertical line below).
+            </div>
+            {% include "shared/_model_selection.html" %}
+        </div>
+    </body>
+{% endblock %}

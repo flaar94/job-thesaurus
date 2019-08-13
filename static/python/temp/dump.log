@@ -1,0 +1,513 @@
+2019-08-05 14:37:46,789:root:INFO:0.7258867924528302
+2019-08-05 14:37:46,835:root:INFO:ID                 5175.756667
+title               156.680833
+description        5075.595556
+raw_title           540.549722
+raw_description    5143.349722
+KMeans                0.000000
+dtype: float64
+2019-08-05 14:39:11,639:root:INFO:0.7258867924528302
+2019-08-05 14:39:29,028:root:INFO:0.7258867924528302
+2019-08-05 14:39:29,075:root:INFO:ID                 5175.756667
+title               156.680833
+description        5075.595556
+raw_title           540.549722
+raw_description    5143.349722
+KMeans                0.000000
+dtype: float64
+2019-08-05 14:46:41,214:root:INFO:0.7339510258107214
+2019-08-05 14:46:41,238:root:INFO:ID                 55.327500
+title               6.990000
+description        55.076667
+raw_title          32.006667
+raw_description    54.712222
+KMeans              0.000000
+dtype: float64
+2019-08-05 14:51:19,607:root:INFO:0.7273328921244209
+2019-08-05 14:51:19,632:root:INFO:ID                 59.394167
+title               9.578889
+description        61.176667
+raw_title          32.383056
+raw_description    60.245556
+KMeans              0.000000
+dtype: float64
+2019-08-05 14:51:45,023:root:INFO:0.7379219060225016
+2019-08-05 14:51:45,047:root:INFO:ID                 77.394167
+title               8.583056
+description        79.610000
+raw_title          50.536389
+raw_description    79.245556
+KMeans              0.000000
+dtype: float64
+2019-08-05 14:52:15,234:root:INFO:0.7273328921244209
+2019-08-05 14:52:15,256:root:INFO:ID                 59.394167
+title               9.578889
+description        61.176667
+raw_title          32.383056
+raw_description    60.245556
+KMeans              0.000000
+dtype: float64
+2019-08-05 15:20:57,376:root:INFO:0.686962276637988
+2019-08-05 15:20:57,404:root:INFO:ID                 62.294167
+title              12.683056
+description        64.143333
+raw_title          39.410000
+raw_description    63.645556
+KMeans              0.000000
+dtype: float64
+2019-08-05 15:31:47,117:root:INFO:0.699536730641959
+2019-08-05 15:31:47,140:root:INFO:ID                 54.527500
+title               8.050000
+description        47.110000
+raw_title          31.776389
+raw_description    49.145556
+KMeans              0.000000
+dtype: float64
+2019-08-05 15:44:37,076:root:INFO:0.7074784910655195
+2019-08-05 15:44:37,103:root:INFO:ID                 70.160833
+title              10.606667
+description        63.843333
+raw_title          35.348889
+raw_description    65.478889
+KMeans              0.000000
+dtype: float64
+2019-08-05 15:58:23,155:root:INFO:0.7339510258107214
+2019-08-05 15:58:23,184:root:INFO:ID                 68.094167
+title               7.745556
+description        69.076667
+raw_title          36.382222
+raw_description    68.578889
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:45:51,974:root:INFO:0.7193911317008603
+2019-08-05 16:45:51,998:root:INFO:ID                 61.927500
+title               6.388889
+description        55.510000
+raw_title          30.649722
+raw_description    57.812222
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:47:20,856:root:INFO:0.7273328921244209
+2019-08-05 16:47:20,879:root:INFO:ID                 82.027500
+title               7.749722
+description        74.610000
+raw_title          45.414167
+raw_description    76.778889
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:49:58,775:root:INFO:0.6949040370615487
+2019-08-05 16:49:58,800:root:INFO:ID                 28.379776
+title               4.993967
+description        30.450445
+raw_title          17.214594
+raw_description    30.152255
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:51:54,443:root:INFO:0.7088021178027796
+2019-08-05 16:51:54,467:root:INFO:ID                 47.556571
+title               5.236764
+description        41.233539
+raw_title          19.804354
+raw_description    43.525396
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:53:04,430:root:INFO:0.7193911317008603
+2019-08-05 16:53:04,453:root:INFO:ID                 61.927500
+title               6.388889
+description        55.510000
+raw_title          30.649722
+raw_description    57.812222
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:54:05,034:root:INFO:0.7332892124420913
+2019-08-05 16:54:05,061:root:INFO:ID                 72.794167
+title               8.943333
+description        68.910000
+raw_title          33.380833
+raw_description    70.812222
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:56:31,190:root:INFO:0.7041694242223693
+2019-08-05 16:56:31,212:root:INFO:ID                 53.727500
+title               8.676667
+description        54.643333
+raw_title          30.116667
+raw_description    54.145556
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:57:05,304:root:INFO:0.7028457974851092
+2019-08-05 16:57:05,328:root:INFO:ID                 63.194167
+title              10.082222
+description        61.343333
+raw_title          31.812222
+raw_description    61.245556
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:58:04,808:root:INFO:0.7332892124420913
+2019-08-05 16:58:04,830:root:INFO:ID                 72.794167
+title               8.943333
+description        68.910000
+raw_title          33.380833
+raw_description    70.812222
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:58:48,249:root:INFO:0.7332892124420913
+2019-08-05 16:58:48,272:root:INFO:ID                 55.494167
+title               7.136389
+description        57.710000
+raw_title          35.814167
+raw_description    57.212222
+KMeans              0.000000
+dtype: float64
+2019-08-05 16:59:31,616:root:INFO:0.7114493712772998
+2019-08-05 16:59:31,640:root:INFO:ID                 59.694167
+title               8.680833
+description        55.143333
+raw_title          35.676389
+raw_description    57.045556
+KMeans              0.000000
+dtype: float64
+2019-08-05 17:00:07,046:root:INFO:0.7266710787557908
+2019-08-05 17:00:07,068:root:INFO:ID                 69.727500
+title               8.712222
+description        62.576667
+raw_title          41.448889
+raw_description    64.745556
+KMeans              0.000000
+dtype: float64
+2019-08-05 17:00:54,044:root:INFO:0.7332892124420913
+2019-08-05 17:00:54,067:root:INFO:ID                 55.494167
+title               7.136389
+description        57.710000
+raw_title          35.814167
+raw_description    57.212222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:03:58,406:root:INFO:0.7319655857048313
+2019-08-06 13:03:58,450:root:INFO:ID                 53.427500
+title               7.769722
+description        54.943333
+raw_title          28.649722
+raw_description    54.678889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:05:11,568:root:INFO:0.700860357379219
+2019-08-06 13:05:11,592:root:INFO:ID                 54.060833
+title               7.549722
+description        47.743333
+raw_title          24.450000
+raw_description    50.045556
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:05:39,714:root:INFO:0.7127729980145598
+2019-08-06 13:05:39,739:root:INFO:ID                 78.560833
+title              11.145556
+description        72.076667
+raw_title          36.147500
+raw_description    73.712222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:06:02,922:root:INFO:0.7319655857048313
+2019-08-06 13:06:02,948:root:INFO:ID                 53.427500
+title               7.769722
+description        54.943333
+raw_title          28.649722
+raw_description    54.678889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:06:35,339:root:INFO:0.71343481138319
+2019-08-06 13:06:35,366:root:INFO:ID                 46.394167
+title               6.960833
+description        48.410000
+raw_title          29.349722
+raw_description    48.078889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:06:57,778:root:INFO:0.7200529450694904
+2019-08-06 13:06:57,803:root:INFO:ID                 63.794167
+title               8.206667
+description        60.043333
+raw_title          26.848889
+raw_description    61.778889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:07:22,834:root:INFO:0.7160820648577101
+2019-08-06 13:07:22,859:root:INFO:ID                 64.560833
+title               7.583333
+description        58.676667
+raw_title          26.606667
+raw_description    60.845556
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:07:44,715:root:INFO:0.7048312375909993
+2019-08-06 13:07:44,740:root:INFO:ID                 51.660833
+title               7.732222
+description        49.876667
+raw_title          24.082222
+raw_description    50.212222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:08:09,187:root:INFO:0.7319655857048313
+2019-08-06 13:08:09,213:root:INFO:ID                 53.427500
+title               7.769722
+description        54.943333
+raw_title          28.649722
+raw_description    54.678889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:08:27,118:root:INFO:0.7028457974851092
+2019-08-06 13:08:27,143:root:INFO:ID                 63.194167
+title              10.082222
+description        61.343333
+raw_title          31.812222
+raw_description    61.245556
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:09:01,184:root:INFO:0.7332892124420913
+2019-08-06 13:09:01,210:root:INFO:ID                 72.494167
+title               6.836389
+description        70.576667
+raw_title          41.215556
+raw_description    71.812222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:10:04,551:root:INFO:0.7266710787557908
+2019-08-06 13:10:04,576:root:INFO:ID                 68.894167
+title               8.828889
+description        64.843333
+raw_title          37.383333
+raw_description    66.078889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:10:31,842:root:INFO:0.7193911317008603
+2019-08-06 13:10:31,867:root:INFO:ID                 73.627500
+title               8.326667
+description        65.576667
+raw_title          31.709722
+raw_description    67.878889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:11:06,153:root:INFO:0.7081403044341495
+2019-08-06 13:11:06,178:root:INFO:ID                 69.527500
+title               9.194167
+description        68.676667
+raw_title          36.143056
+raw_description    69.112222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:11:43,188:root:INFO:0.7332892124420913
+2019-08-06 13:11:43,212:root:INFO:ID                 72.494167
+title               6.836389
+description        70.576667
+raw_title          41.215556
+raw_description    71.812222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:12:25,646:root:INFO:0.7332892124420913
+2019-08-06 13:12:25,670:root:INFO:ID                 55.494167
+title               7.136389
+description        57.710000
+raw_title          35.814167
+raw_description    57.212222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:13:31,209:root:INFO:0.7498345466578424
+2019-08-06 13:13:31,237:root:INFO:ID                 69.027500
+title               8.283056
+description        65.543333
+raw_title          37.245556
+raw_description    65.178889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:14:25,616:root:INFO:0.7332892124420913
+2019-08-06 13:14:25,641:root:INFO:ID                 55.494167
+title               7.136389
+description        57.710000
+raw_title          35.814167
+raw_description    57.212222
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:15:10,805:root:INFO:0.7498345466578424
+2019-08-06 13:15:10,830:root:INFO:ID                 69.027500
+title               8.283056
+description        65.543333
+raw_title          37.245556
+raw_description    65.178889
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:16:04,813:root:INFO:0.7405691594970218
+2019-08-06 13:16:04,839:root:INFO:ID                 47.291617
+title               7.170333
+description        47.118906
+raw_title          24.933710
+raw_description    46.681332
+KMeans              0.000000
+dtype: float64
+2019-08-06 13:17:13,617:root:INFO:0.7498345466578424
+2019-08-06 13:17:13,644:root:INFO:ID                 69.027500
+title               8.283056
+description        65.543333
+raw_title          37.245556
+raw_description    65.178889
+KMeans              0.000000
+dtype: float64
+2019-08-06 14:53:20,700:root:INFO:0.7293183322303111
+2019-08-06 14:53:20,727:root:INFO:ID                 70.794167
+title               8.612222
+description        65.443333
+raw_title          41.260833
+raw_description    67.345556
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:06:01,137:root:INFO:0.7227001985440106
+2019-08-06 15:06:01,166:root:INFO:ID                 56.108589
+title               7.601839
+description        51.704683
+raw_title          30.961793
+raw_description    53.609882
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:07:01,272:root:INFO:0.7015221707478491
+2019-08-06 15:07:01,298:root:INFO:ID                 41.490997
+title               6.830959
+description        37.167966
+raw_title          25.053480
+raw_description    39.066380
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:08:04,328:root:INFO:0.7233620119126406
+2019-08-06 15:08:04,352:root:INFO:ID                 55.494167
+title               9.387500
+description        54.343333
+raw_title          43.509722
+raw_description    53.845556
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:08:48,502:root:INFO:0.7392455327597618
+2019-08-06 15:08:48,527:root:INFO:ID                 52.560833
+title               7.836389
+description        51.643333
+raw_title          33.043056
+raw_description    51.545556
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:09:37,104:root:INFO:0.7227001985440106
+2019-08-06 15:09:37,129:root:INFO:ID                 55.860833
+title               8.036389
+description        48.576667
+raw_title          26.449722
+raw_description    50.612222
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:10:18,401:root:INFO:0.7293183322303111
+2019-08-06 15:10:18,426:root:INFO:ID                 70.794167
+title               8.612222
+description        65.443333
+raw_title          41.260833
+raw_description    67.345556
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:11:05,406:root:INFO:0.7538054268696228
+2019-08-06 15:11:05,431:root:INFO:ID                 83.494167
+title              10.338889
+description        82.943333
+raw_title          52.880833
+raw_description    82.445556
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:11:51,852:root:INFO:0.7471872931833223
+2019-08-06 15:11:51,877:root:INFO:ID                 72.727500
+title              10.048889
+description        71.376667
+raw_title          42.240000
+raw_description    70.878889
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:12:33,736:root:INFO:0.7399073461283918
+2019-08-06 15:12:33,772:root:INFO:ID                 82.394167
+title               9.509722
+description        75.743333
+raw_title          46.115556
+raw_description    77.645556
+KMeans              0.000000
+dtype: float64
+2019-08-06 15:28:13,931:root:INFO:0.6852830188679245
+2019-08-06 15:28:13,981:root:INFO:ID                 4043.656667
+title               181.649722
+description        3759.795556
+raw_title           449.248889
+raw_description    3808.083056
+KMeans                0.000000
+dtype: float64
+2019-08-06 15:33:46,254:root:INFO:0.6674716981132075
+2019-08-06 15:33:46,302:root:INFO:ID                 3997.423333
+title               165.962222
+description        4009.462222
+raw_title           413.114167
+raw_description    4039.483056
+KMeans                0.000000
+dtype: float64
+2019-08-06 15:35:15,637:root:INFO:0.6342641509433963
+2019-08-06 15:35:15,686:root:INFO:ID                 5369.823333
+title               186.287500
+description        4701.595556
+raw_title           473.505556
+raw_description    4760.483056
+KMeans                0.000000
+dtype: float64
+2019-08-06 15:52:45,261:root:INFO:0.6881509433962264
+2019-08-06 15:52:45,392:root:INFO:ID                 3742.923333
+title               158.795556
+description        3443.495556
+raw_title           446.995556
+raw_description    3500.316389
+KMeans                0.000000
+dtype: float64
+INFO:2019-08-09 13:38:33,146:root:0.6881509433962264
+INFO:2019-08-09 13:38:33,197:root:ID                 3742.923333
+title               158.795556
+description        3443.495556
+raw_title           446.995556
+raw_description    3500.316389
+KMeans                0.000000
+dtype: float64
+INFO:root:0.6881509433962264
+INFO:root:ID                 3742.923333
+title               158.795556
+description        3443.495556
+raw_title           446.995556
+raw_description    3500.316389
+KMeans                0.000000
+dtype: float64
+2019-08-09 14:03:00,689:root:INFO:0.7544672402382528
+2019-08-09 14:03:00,712:root:INFO:ID                 58.394167
+title               6.860833
+description        58.443333
+raw_title          33.016389
+raw_description    58.078889
+KMeans              0.000000
+dtype: float64
+2019-08-09 14:49:10,612:root:INFO:0.7650562541363336
+2019-08-09 14:49:10,636:root:INFO:ID                 97.1796
+title              10.0196
+description        87.0224
+raw_title          50.3136
+raw_description    89.2176
+KMeans              0.0000
+dtype: float64
+2019-08-09 14:50:05,367:root:INFO:0.7650562541363336
+2019-08-09 14:50:05,393:root:INFO:ID                 97.1796
+title              10.0196
+description        87.0224
+raw_title          50.3136
+raw_description    89.2176
+KMeans              0.0000
+dtype: float64
+2019-08-09 14:50:26,935:root:INFO:0.7544672402382528
+2019-08-09 14:50:26,958:root:INFO:ID                 58.394167
+title               6.860833
+description        58.443333
+raw_title          33.016389
+raw_description    58.078889
+KMeans              0.000000
+dtype: float64

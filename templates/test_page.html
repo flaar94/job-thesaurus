@@ -1,0 +1,10 @@
+{% extends 'shared/_layout.html' %}
+{% block content %}
+    {%  for x in data %}
+        {% if x<5 %}
+            <p>{{ x }} = {{ x-1 }} + {{ 1 }}</p>
+        {% else %}
+            <p>{{ x }} is too big!</p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

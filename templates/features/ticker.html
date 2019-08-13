@@ -1,0 +1,21 @@
+{% extends 'shared/_layout.html' %}
+{% block content %}
+    <form method="Post" action="">
+        <div>
+            {{ form.hidden_tag() }}
+            {{ form.ticker.label() }}:
+            {{ form.ticker() }}
+        </div>
+        <div>
+            {{ form.month.label() }}:
+            {{ form.month() }}
+        </div>
+        <div>
+            {{ form.year.label() }}:
+            {{ form.year() }}
+        </div>
+        <div>
+            {{ form.submit() }}
+        </div>
+    </form>
+{% endblock %}

@@ -1,0 +1,8 @@
+pandas
+dill
+flask
+Flask-WTF
+jinja2
+numpy
+scipy
+spacy
